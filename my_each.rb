@@ -1,3 +1,3 @@
 def my_each(array)
-while   
+while array.count   
 end
