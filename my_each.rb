@@ -4,3 +4,4 @@ while x < array.count
 yield array[x]
 x += 1
 end
+end
